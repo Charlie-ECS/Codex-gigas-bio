@@ -12,6 +12,6 @@
 - 사업화 기회 탐색
 
 ## 참고 자료## 참고 자료
-- [Awesome Drug Discovery](github.com/topics/drug-discovery)
+- [Awesome Drug Discovery](https://github.com/topics/drug-discovery)
 - 관심있는 논문 링크
 - 유용한 저장소 링크
