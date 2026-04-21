@@ -11,5 +11,7 @@
 - DDS 최신 트렌드 파악
 - 사업화 기회 탐색
 
-## 참고 자료
-- 추후 업데이트 예정
+## 참고 자료## 참고 자료
+- [Awesome Drug Discovery](github.com/topics/drug-discovery)
+- 관심있는 논문 링크
+- 유용한 저장소 링크
